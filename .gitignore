@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# React Native
+ios/.build/
+ios/*.xcodeproj/
+ios/Pods/
+android/.gradle/
+android/app/build/
+*.jks
+*.keystore
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
